@@ -1,2 +1,2 @@
 # oki-burokku.github.io
-website
+website explaing our goals.

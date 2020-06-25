@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 layout: default
-title: Bigger Bitcoin Blocks.
+title: Bigger Bitcoin Blocks \.
 description: A simple upgrade to scale Bitcoin!
-show_downloads: true
+show_downloads: false

@@ -1,4 +1,4 @@
-#What is the issue?
+# What is the issue?
 
 The lack of scaling at the base layer of Bitcoin has caused unsustainable high fees and erratic confirmation times. Layer 2 solutions cannot scale Bitcoin unless the base layer also scales.
 
@@ -8,4 +8,4 @@ This lack of scaling has made Bitcoin uncompetitive in the real world. Bitcoin h
 
 Bitcoin is at a critical juncture. Does it allow itself to scale? Or does it fade away into history? 
 
-#What have we done? 
+# What have we done? 

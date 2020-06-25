@@ -11,10 +11,10 @@ Bitcoin is at a critical juncture. Does it allow itself to scale? Or does it fad
 # What have we done? 
 
 ### 1. Provide a BIP to scale bitcoin.
-We have provided a BIP we call [BIPBBB](https://github.com/oki-burokku/The-White-Paper/tree/BIP_BBB.mediawiki) (BIP Bigger Bitcoin Blocks). The BIP shows a way for bitcoin to scale it's blockweight. The BIP can be found here: BIPBBB.
+We have provided a BIP we call [BIPBBB](https://github.com/oki-burokku/The-White-Paper/blob/master/BIP_BBB.mediawiki) (BIP Bigger Bitcoin Blocks). The BIP shows a way for bitcoin to scale it's blockweight. The BIP can be found [here](https://github.com/oki-burokku/The-White-Paper/blob/master/BIP_BBB.mediawiki).
 
 ### 2. Provide a referenece implementation.
-We have provided a BIPBBB reference implementation based on the latest bitcoin-core releases ([0.20](https://github.com/oki-burokku/bitcoin/tree/0.20) & [0.19](https://github.com/oki-burokku/bitcoin/tree/0.19)). This refernece design has only minor differences to the bitcoin-core codebase. We will maintain this repository to match the latest core releases with the BIPBBB implementation. This reference implemenation could be used by miners or node operators to indicate support for and eventually generate bigger bitcoin blocks.   
+We have provided a BIPBBB reference implementation based on the latest bitcoin-core releases ([BIPBBB 0.20](https://github.com/oki-burokku/bitcoin/tree/0.20) & [BIPBBB 0.19](https://github.com/oki-burokku/bitcoin/tree/0.19)). This refernece design has only minor differences to the bitcoin-core codebase. We will maintain this repository to match the latest core releases with the BIPBBB implementation. This reference implemenation could be used by miners or node operators to indicate support for and eventually generate bigger bitcoin blocks.   
 
 # What can you do?
 
